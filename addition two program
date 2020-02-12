@@ -4,3 +4,4 @@ c=a+b
 print(c)
 def a():
   print('sa'*10)
+a()
