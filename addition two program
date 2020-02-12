@@ -6,3 +6,4 @@ def a():
   print('sa'*10)
  
 a()
+print('sdf')
